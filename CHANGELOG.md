@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Dec 09 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Data name ([@Koulutus](https://github.com/Koulutus))
+
+#### Authors: 1
+
+- [@Koulutus](https://github.com/Koulutus)
+
+---
+
 # v0.0.1 (Sat Dec 09 2023)
 
 :tada: This release contains work from a new contributor! :tada:
